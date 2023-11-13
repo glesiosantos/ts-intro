@@ -4,7 +4,6 @@ let nomes: Array<string> = ['José', '2', 'Maria', 'Francis']
 let nome: string
 nome = 'Jean'
 
-
 nomes.push(nome) // add elemento na lista
 
 nomes.splice(1, 1)
